@@ -1,0 +1,79 @@
+#big-title {
+    font-size:4em;
+    font-family: 'Big Shoulders Display', cursive;
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.sub-title {
+    font-size: 2.5em;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding-bottom: 1em;
+
+}
+
+#info-perso  {
+    font-size: 1.25em;
+    text-align: justify;
+    margin: 50px;
+}
+
+.section-title{
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Big Shoulders Display', cursive;
+    padding-bottom:1em;
+}
+
+#rapid-link > li {
+    display: inline;
+    padding : 2em;
+
+}
+
+#rapid-link {
+    margin-top: 2em;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.icon-text-shc {
+    display: inline;
+    position: relative;
+    float: none;
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+#shortcuts {
+    display: inline;
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding-top: 2em;
+}
+
+#shortcuts a {
+    text-decoration: none;
+    color : black;
+}
+
+.sub-fmt {
+    padding-top: 50px;
+    width: 85%;
+    padding-left: 15%;
+}
+.title-fmt {
+    font-size : 2em;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+
+.details-fmt {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 1.5em;
+}
